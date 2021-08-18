@@ -1,4 +1,3 @@
-*forum*
 *gearhungry*
 *grainger*
 *handtoolschool*
@@ -42,8 +41,6 @@ familyhandyman.com
 fine-tools.com
 freecodecamp.org
 garrettwade.com
-github.com
-gitlab.com
 gridsome.org
 imdb.com
 improveism.com
@@ -59,7 +56,6 @@ levels.io
 linkedin.com
 lynnandtonic.com
 mail.google.com
-medium.com
 mewe.com
 millennialmoney.com
 mint.intuit.com
@@ -81,10 +77,9 @@ techcarpenter.org
 theenglishwoodworker.com
 tinylittlebusinesses.com
 toolsdaddy.com
+twitter.com
 uasconnect.com
 ungated.media
-vuejs.org
-w3resource.com/vue
 woodandshop.com
 woodarchivist.com
 woodcraft.com
